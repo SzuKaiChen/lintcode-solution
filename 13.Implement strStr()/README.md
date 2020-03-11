@@ -29,5 +29,5 @@ Output: 1
 
 Explanation: If the source contains the target content, return the location where the target first appeared in the source.
 
-##Challenge
+## Challenge
 O(n2) is acceptable. Can you implement an O(n) algorithm? (hint: KMP)
